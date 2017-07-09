@@ -1,0 +1,14 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\WhereStudentsLiveApplication\WhereStudentsLiveApplication\bin\Debug\WhereStudentsLiveApplication.exe.config
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WhereStudentsLiveApplication\WhereStudentsLiveApplication\bin\Debug\WhereStudentsLiveApplication.exe
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WhereStudentsLiveApplication\WhereStudentsLiveApplication\bin\Debug\WhereStudentsLiveApplication.pdb
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WhereStudentsLiveApplication\WhereStudentsLiveApplication\bin\Debug\WhereStudentsLiveApplication.xml
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WhereStudentsLiveApplication\WhereStudentsLiveApplication\obj\Debug\WhereStudentsLiveApplication.Resources.resources
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WhereStudentsLiveApplication\WhereStudentsLiveApplication\obj\Debug\WhereStudentsLiveApplication.frmWhereStudentsLiveApp.resources
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WhereStudentsLiveApplication\WhereStudentsLiveApplication\obj\Debug\WhereStudentsLiveApplication.vbproj.GenerateResource.Cache
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WhereStudentsLiveApplication\WhereStudentsLiveApplication\obj\Debug\WhereStudentsLiveApplication.exe
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WhereStudentsLiveApplication\WhereStudentsLiveApplication\obj\Debug\WhereStudentsLiveApplication.xml
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WhereStudentsLiveApplication\WhereStudentsLiveApplication\obj\Debug\WhereStudentsLiveApplication.pdb
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WhereStudentsLive\WhereStudentsLiveApplication\bin\Debug\WhereStudentsLiveApplication.exe.config
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WhereStudentsLive\WhereStudentsLiveApplication\obj\Debug\WhereStudentsLiveApplication.exe
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WhereStudentsLive\WhereStudentsLiveApplication\obj\Debug\WhereStudentsLiveApplication.xml
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\WhereStudentsLive\WhereStudentsLiveApplication\obj\Debug\WhereStudentsLiveApplication.pdb
